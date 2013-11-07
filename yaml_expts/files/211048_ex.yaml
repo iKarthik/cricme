@@ -1,0 +1,2077 @@
+---
+meta:
+  data_version: 0.5
+  created: 2013-02-22
+  revision: 1
+info:
+  city: Auckland
+  dates:
+    - 2005-02-17
+  match_type: T20
+  outcome:
+    by:
+      runs: 44
+    winner: Australia
+  overs: 20
+  player_of_match:
+    - RT Ponting
+  teams:
+    - New Zealand
+    - Australia
+  toss:
+    decision: bat
+    winner: Australia
+  umpires:
+    - BF Bowden
+    - AL Hill
+  venue: Eden Park
+innings:
+  - 1st innings:
+      team: Australia
+      deliveries:
+        - delivery_0_1:
+            batsman: AC Gilchrist
+            bowler: DR Tuffey
+            extras:
+              wides: 1
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_0_2:
+            batsman: AC Gilchrist
+            bowler: DR Tuffey
+            extras:
+              legbyes: 1
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_0_3:
+            batsman: MJ Clarke
+            bowler: DR Tuffey
+            non_striker: AC Gilchrist
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_0_4:
+            batsman: MJ Clarke
+            bowler: DR Tuffey
+            non_striker: AC Gilchrist
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_0_5:
+            batsman: AC Gilchrist
+            bowler: DR Tuffey
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_0_6:
+            batsman: MJ Clarke
+            bowler: DR Tuffey
+            non_striker: AC Gilchrist
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_0_7:
+            batsman: MJ Clarke
+            bowler: DR Tuffey
+            non_striker: AC Gilchrist
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CD McMillan
+              kind: caught
+              player_out: MJ Clarke
+        - delivery_1_1:
+            batsman: A Symonds
+            bowler: KD Mills
+            non_striker: AC Gilchrist
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_1_2:
+            batsman: A Symonds
+            bowler: KD Mills
+            non_striker: AC Gilchrist
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_1_3:
+            batsman: A Symonds
+            bowler: KD Mills
+            non_striker: AC Gilchrist
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_1_4:
+            batsman: A Symonds
+            bowler: KD Mills
+            non_striker: AC Gilchrist
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_1_5:
+            batsman: AC Gilchrist
+            bowler: KD Mills
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CD McMillan
+              kind: caught
+              player_out: AC Gilchrist
+        - delivery_1_6:
+            batsman: RT Ponting
+            bowler: KD Mills
+            non_striker: A Symonds
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_2_1:
+            batsman: RT Ponting
+            bowler: DR Tuffey
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_2_2:
+            batsman: RT Ponting
+            bowler: DR Tuffey
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_2_3:
+            batsman: RT Ponting
+            bowler: DR Tuffey
+            extras:
+              legbyes: 1
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_2_4:
+            batsman: A Symonds
+            bowler: DR Tuffey
+            non_striker: RT Ponting
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_2_5:
+            batsman: A Symonds
+            bowler: DR Tuffey
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_2_6:
+            batsman: A Symonds
+            bowler: DR Tuffey
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_3_1:
+            batsman: A Symonds
+            bowler: KD Mills
+            non_striker: RT Ponting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_3_2:
+            batsman: A Symonds
+            bowler: KD Mills
+            extras:
+              wides: 1
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_3_3:
+            batsman: A Symonds
+            bowler: KD Mills
+            non_striker: RT Ponting
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_3_4:
+            batsman: A Symonds
+            bowler: KD Mills
+            non_striker: RT Ponting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_3_5:
+            batsman: A Symonds
+            bowler: KD Mills
+            non_striker: RT Ponting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_3_6:
+            batsman: A Symonds
+            bowler: KD Mills
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_3_7:
+            batsman: A Symonds
+            bowler: KD Mills
+            extras:
+              wides: 1
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_3_8:
+            batsman: A Symonds
+            bowler: KD Mills
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - BB McCullum
+              kind: caught
+              player_out: A Symonds
+        - delivery_4_1:
+            batsman: RT Ponting
+            bowler: DR Tuffey
+            non_striker: DR Martyn
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_4_2:
+            batsman: RT Ponting
+            bowler: DR Tuffey
+            non_striker: DR Martyn
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_4_3:
+            batsman: DR Martyn
+            bowler: DR Tuffey
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_4_4:
+            batsman: DR Martyn
+            bowler: DR Tuffey
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_4_5:
+            batsman: DR Martyn
+            bowler: DR Tuffey
+            non_striker: RT Ponting
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_4_6:
+            batsman: DR Martyn
+            bowler: DR Tuffey
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_5_1:
+            batsman: DR Martyn
+            bowler: KD Mills
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: DR Martyn
+        - delivery_5_2:
+            batsman: SM Katich
+            bowler: KD Mills
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_5_3:
+            batsman: RT Ponting
+            bowler: KD Mills
+            non_striker: SM Katich
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_5_4:
+            batsman: SM Katich
+            bowler: KD Mills
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_5_5:
+            batsman: RT Ponting
+            bowler: KD Mills
+            non_striker: SM Katich
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_5_6:
+            batsman: RT Ponting
+            bowler: KD Mills
+            non_striker: SM Katich
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_6_1:
+            batsman: RT Ponting
+            bowler: CL Cairns
+            non_striker: SM Katich
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_6_2:
+            batsman: SM Katich
+            bowler: CL Cairns
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_6_3:
+            batsman: RT Ponting
+            bowler: CL Cairns
+            non_striker: SM Katich
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_6_4:
+            batsman: SM Katich
+            bowler: CL Cairns
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_6_5:
+            batsman: RT Ponting
+            bowler: CL Cairns
+            non_striker: SM Katich
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_6_6:
+            batsman: SM Katich
+            bowler: CL Cairns
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_7_1:
+            batsman: SM Katich
+            bowler: KD Mills
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_7_2:
+            batsman: SM Katich
+            bowler: KD Mills
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_7_3:
+            batsman: RT Ponting
+            bowler: KD Mills
+            non_striker: SM Katich
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_7_4:
+            batsman: RT Ponting
+            bowler: KD Mills
+            non_striker: SM Katich
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_7_5:
+            batsman: SM Katich
+            bowler: KD Mills
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_7_6:
+            batsman: RT Ponting
+            bowler: KD Mills
+            non_striker: SM Katich
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_8_1:
+            batsman: RT Ponting
+            bowler: CL Cairns
+            non_striker: SM Katich
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_8_2:
+            batsman: SM Katich
+            bowler: CL Cairns
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_8_3:
+            batsman: SM Katich
+            bowler: CL Cairns
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_8_4:
+            batsman: RT Ponting
+            bowler: CL Cairns
+            non_striker: SM Katich
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_8_5:
+            batsman: RT Ponting
+            bowler: CL Cairns
+            non_striker: SM Katich
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_8_6:
+            batsman: RT Ponting
+            bowler: CL Cairns
+            non_striker: SM Katich
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_9_1:
+            batsman: RT Ponting
+            bowler: JW Wilson
+            non_striker: SM Katich
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_9_2:
+            batsman: RT Ponting
+            bowler: JW Wilson
+            non_striker: SM Katich
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_9_3:
+            batsman: SM Katich
+            bowler: JW Wilson
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_9_4:
+            batsman: RT Ponting
+            bowler: JW Wilson
+            non_striker: SM Katich
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_9_5:
+            batsman: SM Katich
+            bowler: JW Wilson
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_9_6:
+            batsman: RT Ponting
+            bowler: JW Wilson
+            non_striker: SM Katich
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_10_1:
+            batsman: SM Katich
+            bowler: AR Adams
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_10_2:
+            batsman: RT Ponting
+            bowler: AR Adams
+            non_striker: SM Katich
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_10_3:
+            batsman: SM Katich
+            bowler: AR Adams
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_10_4:
+            batsman: RT Ponting
+            bowler: AR Adams
+            non_striker: SM Katich
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_10_5:
+            batsman: RT Ponting
+            bowler: AR Adams
+            non_striker: SM Katich
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_10_6:
+            batsman: RT Ponting
+            bowler: AR Adams
+            non_striker: SM Katich
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_11_1:
+            batsman: SM Katich
+            bowler: JW Wilson
+            non_striker: RT Ponting
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_11_2:
+            batsman: SM Katich
+            bowler: JW Wilson
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_11_3:
+            batsman: SM Katich
+            bowler: JW Wilson
+            non_striker: RT Ponting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_11_4:
+            batsman: SM Katich
+            bowler: JW Wilson
+            non_striker: RT Ponting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_11_5:
+            batsman: SM Katich
+            bowler: JW Wilson
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_11_6:
+            batsman: SM Katich
+            bowler: JW Wilson
+            extras:
+              legbyes: 1
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_12_1:
+            batsman: SM Katich
+            bowler: AR Adams
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_12_2:
+            batsman: SM Katich
+            bowler: AR Adams
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_12_3:
+            batsman: RT Ponting
+            bowler: AR Adams
+            non_striker: SM Katich
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_12_4:
+            batsman: RT Ponting
+            bowler: AR Adams
+            non_striker: SM Katich
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_12_5:
+            batsman: SM Katich
+            bowler: AR Adams
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_12_6:
+            batsman: RT Ponting
+            bowler: AR Adams
+            non_striker: SM Katich
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_13_1:
+            batsman: RT Ponting
+            bowler: JW Wilson
+            non_striker: SM Katich
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_13_2:
+            batsman: RT Ponting
+            bowler: JW Wilson
+            extras:
+              legbyes: 4
+            non_striker: SM Katich
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - delivery_13_3:
+            batsman: RT Ponting
+            bowler: JW Wilson
+            non_striker: SM Katich
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_13_4:
+            batsman: RT Ponting
+            bowler: JW Wilson
+            non_striker: SM Katich
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_13_5:
+            batsman: RT Ponting
+            bowler: JW Wilson
+            non_striker: SM Katich
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_13_6:
+            batsman: RT Ponting
+            bowler: JW Wilson
+            non_striker: SM Katich
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_14_1:
+            batsman: RT Ponting
+            bowler: CL Cairns
+            non_striker: SM Katich
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_14_2:
+            batsman: SM Katich
+            bowler: CL Cairns
+            non_striker: RT Ponting
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_14_3:
+            batsman: SM Katich
+            bowler: CL Cairns
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: SM Katich
+        - delivery_14_4:
+            batsman: MEK Hussey
+            bowler: CL Cairns
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_14_5:
+            batsman: RT Ponting
+            bowler: CL Cairns
+            non_striker: MEK Hussey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_14_6:
+            batsman: RT Ponting
+            bowler: CL Cairns
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_15_1:
+            batsman: RT Ponting
+            bowler: JW Wilson
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_15_2:
+            batsman: MEK Hussey
+            bowler: JW Wilson
+            non_striker: RT Ponting
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_15_3:
+            batsman: MEK Hussey
+            bowler: JW Wilson
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_15_4:
+            batsman: MEK Hussey
+            bowler: JW Wilson
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_15_5:
+            batsman: RT Ponting
+            bowler: JW Wilson
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_15_6:
+            batsman: MEK Hussey
+            bowler: JW Wilson
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_16_1:
+            batsman: MEK Hussey
+            bowler: CL Cairns
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_16_2:
+            batsman: RT Ponting
+            bowler: CL Cairns
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_16_3:
+            batsman: MEK Hussey
+            bowler: CL Cairns
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_16_4:
+            batsman: RT Ponting
+            bowler: CL Cairns
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_16_5:
+            batsman: RT Ponting
+            bowler: CL Cairns
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_16_6:
+            batsman: MEK Hussey
+            bowler: CL Cairns
+            non_striker: RT Ponting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_17_1:
+            batsman: RT Ponting
+            bowler: AR Adams
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_17_2:
+            batsman: MEK Hussey
+            bowler: AR Adams
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_17_3:
+            batsman: RT Ponting
+            bowler: AR Adams
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_17_4:
+            batsman: MEK Hussey
+            bowler: AR Adams
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_17_5:
+            batsman: MEK Hussey
+            bowler: AR Adams
+            non_striker: RT Ponting
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_17_6:
+            batsman: MEK Hussey
+            bowler: AR Adams
+            non_striker: RT Ponting
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_18_1:
+            batsman: RT Ponting
+            bowler: DR Tuffey
+            non_striker: MEK Hussey
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_18_2:
+            batsman: RT Ponting
+            bowler: DR Tuffey
+            non_striker: MEK Hussey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_18_3:
+            batsman: RT Ponting
+            bowler: DR Tuffey
+            non_striker: MEK Hussey
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_18_4:
+            batsman: RT Ponting
+            bowler: DR Tuffey
+            non_striker: MEK Hussey
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_18_5:
+            batsman: RT Ponting
+            bowler: DR Tuffey
+            non_striker: MEK Hussey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_18_6:
+            batsman: RT Ponting
+            bowler: DR Tuffey
+            non_striker: MEK Hussey
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_19_1:
+            batsman: MEK Hussey
+            bowler: AR Adams
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_19_2:
+            batsman: RT Ponting
+            bowler: AR Adams
+            non_striker: MEK Hussey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_19_3:
+            batsman: RT Ponting
+            bowler: AR Adams
+            extras:
+              legbyes: 2
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - delivery_19_4:
+            batsman: RT Ponting
+            bowler: AR Adams
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_19_5:
+            batsman: MEK Hussey
+            bowler: AR Adams
+            non_striker: RT Ponting
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_19_6:
+            batsman: MEK Hussey
+            bowler: AR Adams
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+  - 2nd innings:
+      team: New Zealand
+      deliveries:
+        - delivery_0_1:
+            batsman: BB McCullum
+            bowler: B Lee
+            non_striker: SP Fleming
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_0_2:
+            batsman: BB McCullum
+            bowler: B Lee
+            non_striker: SP Fleming
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_0_3:
+            batsman: BB McCullum
+            bowler: B Lee
+            non_striker: SP Fleming
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_0_4:
+            batsman: SP Fleming
+            bowler: B Lee
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_0_5:
+            batsman: SP Fleming
+            bowler: B Lee
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_0_6:
+            batsman: BB McCullum
+            bowler: B Lee
+            non_striker: SP Fleming
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_1_1:
+            batsman: SP Fleming
+            bowler: GD McGrath
+            non_striker: BB McCullum
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_1_2:
+            batsman: SP Fleming
+            bowler: GD McGrath
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_1_3:
+            batsman: BB McCullum
+            bowler: GD McGrath
+            non_striker: SP Fleming
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_1_4:
+            batsman: SP Fleming
+            bowler: GD McGrath
+            non_striker: BB McCullum
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_1_5:
+            batsman: SP Fleming
+            bowler: GD McGrath
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_1_6:
+            batsman: BB McCullum
+            bowler: GD McGrath
+            non_striker: SP Fleming
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_2_1:
+            batsman: BB McCullum
+            bowler: B Lee
+            non_striker: SP Fleming
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_2_2:
+            batsman: BB McCullum
+            bowler: B Lee
+            non_striker: SP Fleming
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_2_3:
+            batsman: BB McCullum
+            bowler: B Lee
+            non_striker: SP Fleming
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_2_4:
+            batsman: SP Fleming
+            bowler: B Lee
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_2_5:
+            batsman: SP Fleming
+            bowler: B Lee
+            non_striker: BB McCullum
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_2_6:
+            batsman: SP Fleming
+            bowler: B Lee
+            non_striker: BB McCullum
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_3_1:
+            batsman: BB McCullum
+            bowler: GD McGrath
+            non_striker: SP Fleming
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_3_2:
+            batsman: BB McCullum
+            bowler: GD McGrath
+            non_striker: SP Fleming
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_3_3:
+            batsman: BB McCullum
+            bowler: GD McGrath
+            non_striker: SP Fleming
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_3_4:
+            batsman: BB McCullum
+            bowler: GD McGrath
+            non_striker: SP Fleming
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_3_5:
+            batsman: BB McCullum
+            bowler: GD McGrath
+            non_striker: SP Fleming
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_3_6:
+            batsman: SP Fleming
+            bowler: GD McGrath
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_4_1:
+            batsman: BB McCullum
+            bowler: B Lee
+            non_striker: SP Fleming
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_4_2:
+            batsman: BB McCullum
+            bowler: B Lee
+            non_striker: SP Fleming
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - delivery_4_3:
+            batsman: SP Fleming
+            bowler: B Lee
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_4_4:
+            batsman: SP Fleming
+            bowler: B Lee
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_4_5:
+            batsman: BB McCullum
+            bowler: B Lee
+            extras:
+              wides: 1
+            non_striker: SP Fleming
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_4_6:
+            batsman: BB McCullum
+            bowler: B Lee
+            non_striker: SP Fleming
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_4_7:
+            batsman: BB McCullum
+            bowler: B Lee
+            non_striker: SP Fleming
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_5_1:
+            batsman: SP Fleming
+            bowler: MS Kasprowicz
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: SP Fleming
+        - delivery_5_2:
+            batsman: MS Sinclair
+            bowler: MS Kasprowicz
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - SM Katich
+              kind: caught
+              player_out: MS Sinclair
+        - delivery_5_3:
+            batsman: BB McCullum
+            bowler: MS Kasprowicz
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_5_4:
+            batsman: BB McCullum
+            bowler: MS Kasprowicz
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_5_5:
+            batsman: SB Styris
+            bowler: MS Kasprowicz
+            non_striker: BB McCullum
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_5_6:
+            batsman: SB Styris
+            bowler: MS Kasprowicz
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_6_1:
+            batsman: BB McCullum
+            bowler: JR Hopes
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_6_2:
+            batsman: BB McCullum
+            bowler: JR Hopes
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_6_3:
+            batsman: SB Styris
+            bowler: JR Hopes
+            non_striker: BB McCullum
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_6_4:
+            batsman: SB Styris
+            bowler: JR Hopes
+            non_striker: BB McCullum
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_6_5:
+            batsman: SB Styris
+            bowler: JR Hopes
+            non_striker: BB McCullum
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_6_6:
+            batsman: SB Styris
+            bowler: JR Hopes
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_7_1:
+            batsman: BB McCullum
+            bowler: MS Kasprowicz
+            non_striker: SB Styris
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_7_2:
+            batsman: BB McCullum
+            bowler: MS Kasprowicz
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RT Ponting
+              kind: caught
+              player_out: BB McCullum
+        - delivery_7_3:
+            batsman: CD McMillan
+            bowler: MS Kasprowicz
+            extras:
+              wides: 1
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_7_4:
+            batsman: CD McMillan
+            bowler: MS Kasprowicz
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_7_5:
+            batsman: CD McMillan
+            bowler: MS Kasprowicz
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_7_6:
+            batsman: SB Styris
+            bowler: MS Kasprowicz
+            non_striker: CD McMillan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_7_7:
+            batsman: CD McMillan
+            bowler: MS Kasprowicz
+            non_striker: SB Styris
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_8_1:
+            batsman: SB Styris
+            bowler: JR Hopes
+            non_striker: CD McMillan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_8_2:
+            batsman: SB Styris
+            bowler: JR Hopes
+            non_striker: CD McMillan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_8_3:
+            batsman: SB Styris
+            bowler: JR Hopes
+            non_striker: CD McMillan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_8_4:
+            batsman: SB Styris
+            bowler: JR Hopes
+            non_striker: CD McMillan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_8_5:
+            batsman: CD McMillan
+            bowler: JR Hopes
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_8_6:
+            batsman: SB Styris
+            bowler: JR Hopes
+            non_striker: CD McMillan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_9_1:
+            batsman: SB Styris
+            bowler: MS Kasprowicz
+            non_striker: CD McMillan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_9_2:
+            batsman: CD McMillan
+            bowler: MS Kasprowicz
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_9_3:
+            batsman: CD McMillan
+            bowler: MS Kasprowicz
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_9_4:
+            batsman: SB Styris
+            bowler: MS Kasprowicz
+            non_striker: CD McMillan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_9_5:
+            batsman: SB Styris
+            bowler: MS Kasprowicz
+            non_striker: CD McMillan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_9_6:
+            batsman: CD McMillan
+            bowler: MS Kasprowicz
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_10_1:
+            batsman: SB Styris
+            bowler: JR Hopes
+            non_striker: CD McMillan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_10_2:
+            batsman: CD McMillan
+            bowler: JR Hopes
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MEK Hussey
+              kind: caught
+              player_out: CD McMillan
+        - delivery_10_3:
+            batsman: SB Styris
+            bowler: JR Hopes
+            non_striker: CL Cairns
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_10_4:
+            batsman: CL Cairns
+            bowler: JR Hopes
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_10_5:
+            batsman: CL Cairns
+            bowler: JR Hopes
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_10_6:
+            batsman: CL Cairns
+            bowler: JR Hopes
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_11_1:
+            batsman: CL Cairns
+            bowler: MS Kasprowicz
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - GD McGrath
+              kind: caught
+              player_out: CL Cairns
+        - delivery_11_2:
+            batsman: SB Styris
+            bowler: MS Kasprowicz
+            non_striker: HJH Marshall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_11_3:
+            batsman: HJH Marshall
+            bowler: MS Kasprowicz
+            non_striker: SB Styris
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_11_4:
+            batsman: HJH Marshall
+            bowler: MS Kasprowicz
+            non_striker: SB Styris
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_11_5:
+            batsman: HJH Marshall
+            bowler: MS Kasprowicz
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_11_6:
+            batsman: HJH Marshall
+            bowler: MS Kasprowicz
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_12_1:
+            batsman: HJH Marshall
+            bowler: A Symonds
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_12_2:
+            batsman: SB Styris
+            bowler: A Symonds
+            non_striker: HJH Marshall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_12_3:
+            batsman: HJH Marshall
+            bowler: A Symonds
+            non_striker: SB Styris
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_12_4:
+            batsman: HJH Marshall
+            bowler: A Symonds
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: HJH Marshall
+        - delivery_12_5:
+            batsman: AR Adams
+            bowler: A Symonds
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_12_6:
+            batsman: AR Adams
+            bowler: A Symonds
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_13_1:
+            batsman: AR Adams
+            bowler: MJ Clarke
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_13_2:
+            batsman: AR Adams
+            bowler: MJ Clarke
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_13_3:
+            batsman: SB Styris
+            bowler: MJ Clarke
+            non_striker: AR Adams
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_13_4:
+            batsman: AR Adams
+            bowler: MJ Clarke
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_13_5:
+            batsman: SB Styris
+            bowler: MJ Clarke
+            non_striker: AR Adams
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_13_6:
+            batsman: AR Adams
+            bowler: MJ Clarke
+            non_striker: SB Styris
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_14_1:
+            batsman: SB Styris
+            bowler: A Symonds
+            non_striker: AR Adams
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_14_2:
+            batsman: SB Styris
+            bowler: A Symonds
+            non_striker: AR Adams
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_14_3:
+            batsman: SB Styris
+            bowler: A Symonds
+            non_striker: AR Adams
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_14_4:
+            batsman: AR Adams
+            bowler: A Symonds
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - GD McGrath
+              kind: run out
+              player_out: AR Adams
+        - delivery_14_5:
+            batsman: SB Styris
+            bowler: A Symonds
+            non_striker: JW Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_14_6:
+            batsman: JW Wilson
+            bowler: A Symonds
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_15_1:
+            batsman: JW Wilson
+            bowler: MJ Clarke
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_15_2:
+            batsman: JW Wilson
+            bowler: MJ Clarke
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_15_3:
+            batsman: SB Styris
+            bowler: MJ Clarke
+            non_striker: JW Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_15_4:
+            batsman: SB Styris
+            bowler: MJ Clarke
+            non_striker: JW Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_15_5:
+            batsman: SB Styris
+            bowler: MJ Clarke
+            non_striker: JW Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_15_6:
+            batsman: JW Wilson
+            bowler: MJ Clarke
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_16_1:
+            batsman: JW Wilson
+            bowler: A Symonds
+            non_striker: SB Styris
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_16_2:
+            batsman: JW Wilson
+            bowler: A Symonds
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_16_3:
+            batsman: SB Styris
+            bowler: A Symonds
+            non_striker: JW Wilson
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_16_4:
+            batsman: SB Styris
+            bowler: A Symonds
+            non_striker: JW Wilson
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_16_5:
+            batsman: SB Styris
+            bowler: A Symonds
+            non_striker: JW Wilson
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_16_6:
+            batsman: SB Styris
+            bowler: A Symonds
+            non_striker: JW Wilson
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_17_1:
+            batsman: JW Wilson
+            bowler: GD McGrath
+            non_striker: SB Styris
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_17_2:
+            batsman: JW Wilson
+            bowler: GD McGrath
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_17_3:
+            batsman: SB Styris
+            bowler: GD McGrath
+            non_striker: JW Wilson
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_17_4:
+            batsman: SB Styris
+            bowler: GD McGrath
+            non_striker: JW Wilson
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_17_5:
+            batsman: SB Styris
+            bowler: GD McGrath
+            non_striker: JW Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_17_6:
+            batsman: SB Styris
+            bowler: GD McGrath
+            non_striker: JW Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_18_1:
+            batsman: SB Styris
+            bowler: B Lee
+            non_striker: JW Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_18_2:
+            batsman: JW Wilson
+            bowler: B Lee
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_18_3:
+            batsman: JW Wilson
+            bowler: B Lee
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_18_4:
+            batsman: JW Wilson
+            bowler: B Lee
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_18_5:
+            batsman: SB Styris
+            bowler: B Lee
+            non_striker: JW Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_18_6:
+            batsman: SB Styris
+            bowler: B Lee
+            non_striker: JW Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: SB Styris
+        - delivery_19_1:
+            batsman: JW Wilson
+            bowler: GD McGrath
+            non_striker: KD Mills
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_19_2:
+            batsman: JW Wilson
+            bowler: GD McGrath
+            non_striker: KD Mills
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_19_3:
+            batsman: JW Wilson
+            bowler: GD McGrath
+            non_striker: KD Mills
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: JW Wilson
+        - delivery_19_4:
+            batsman: DR Tuffey
+            bowler: GD McGrath
+            non_striker: KD Mills
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_19_5:
+            batsman: DR Tuffey
+            bowler: GD McGrath
+            non_striker: KD Mills
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_19_6:
+            batsman: KD Mills
+            bowler: GD McGrath
+            non_striker: DR Tuffey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MS Kasprowicz
+              kind: caught
+              player_out: KD Mills

@@ -1,0 +1,15 @@
+persons:
+  - 1st relative:
+      name: Alice
+      sons:
+        - "11":
+            name1: Alice First son
+        - "12":
+            name1: Alice Second son
+        - "13":
+            name1: Alice Third son
+        - "14":
+            name1: Alice Fourth son
+        - "15":
+            name1: Alice Fifth son
+        

@@ -1,0 +1,11 @@
+info:
+  city: india
+  
+  match_type: ODI
+  outcome: Who
+  overs: 20
+  player_of_match:
+    - RT Ponting
+  teams:
+    - New Zealand
+    - Australia

@@ -1,0 +1,1864 @@
+---
+meta:
+  data_version: 0.5
+  created: 2013-02-22
+  revision: 1
+info:
+  city: Southampton
+  dates:
+    - 2005-06-13
+  match_type: T20
+  outcome:
+    by:
+      runs: 100
+    winner: England
+  overs: 20
+  player_of_match:
+    - KP Pietersen
+  teams:
+    - England
+    - Australia
+  toss:
+    decision: bat
+    winner: England
+  umpires:
+    - NJ Llong
+    - JW Lloyds
+  venue: The Rose Bowl
+innings:
+  - 1st innings:
+      team: England
+      deliveries:
+        - delivery_0_0:
+            batsman: ME Trescothick
+            bowler: B Lee
+            non_striker: GO Jones
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_0_2:
+            batsman: ME Trescothick
+            bowler: B Lee
+            non_striker: GO Jones
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_0_3:
+            batsman: GO Jones
+            bowler: B Lee
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_0_4:
+            batsman: GO Jones
+            bowler: B Lee
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_0_5:
+            batsman: GO Jones
+            bowler: B Lee
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_0_6:
+            batsman: GO Jones
+            bowler: B Lee
+            extras:
+              noballs: 1
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_0_7:
+            batsman: GO Jones
+            bowler: B Lee
+            non_striker: ME Trescothick
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_1_1:
+            batsman: ME Trescothick
+            bowler: GD McGrath
+            non_striker: GO Jones
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_1_2:
+            batsman: ME Trescothick
+            bowler: GD McGrath
+            non_striker: GO Jones
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_1_3:
+            batsman: ME Trescothick
+            bowler: GD McGrath
+            extras:
+              wides: 1
+            non_striker: GO Jones
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_1_4:
+            batsman: ME Trescothick
+            bowler: GD McGrath
+            non_striker: GO Jones
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_1_5:
+            batsman: ME Trescothick
+            bowler: GD McGrath
+            non_striker: GO Jones
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_1_6:
+            batsman: ME Trescothick
+            bowler: GD McGrath
+            non_striker: GO Jones
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_1_7:
+            batsman: ME Trescothick
+            bowler: GD McGrath
+            non_striker: GO Jones
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_2_1:
+            batsman: ME Trescothick
+            bowler: B Lee
+            non_striker: GO Jones
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_2_2:
+            batsman: ME Trescothick
+            bowler: B Lee
+            non_striker: GO Jones
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_2_3:
+            batsman: GO Jones
+            bowler: B Lee
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_2_4:
+            batsman: GO Jones
+            bowler: B Lee
+            non_striker: ME Trescothick
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_2_5:
+            batsman: GO Jones
+            bowler: B Lee
+            non_striker: ME Trescothick
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_2_6:
+            batsman: GO Jones
+            bowler: B Lee
+            non_striker: ME Trescothick
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_3_1:
+            batsman: GO Jones
+            bowler: GD McGrath
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_3_2:
+            batsman: GO Jones
+            bowler: GD McGrath
+            non_striker: ME Trescothick
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_3_3:
+            batsman: GO Jones
+            bowler: GD McGrath
+            non_striker: ME Trescothick
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_3_4:
+            batsman: GO Jones
+            bowler: GD McGrath
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_3_5:
+            batsman: GO Jones
+            bowler: GD McGrath
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MS Kasprowicz
+              kind: caught
+              player_out: GO Jones
+        - delivery_3_6:
+            batsman: ME Trescothick
+            bowler: GD McGrath
+            non_striker: A Flintoff
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_4_1:
+            batsman: ME Trescothick
+            bowler: B Lee
+            non_striker: A Flintoff
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_4_2:
+            batsman: A Flintoff
+            bowler: B Lee
+            extras:
+              noballs: 1
+            non_striker: ME Trescothick
+            runs:
+              batsman: 1
+              extras: 1
+              total: 2
+        - delivery_4_3:
+            batsman: ME Trescothick
+            bowler: B Lee
+            non_striker: A Flintoff
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_4_4:
+            batsman: ME Trescothick
+            bowler: B Lee
+            non_striker: A Flintoff
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_4_5:
+            batsman: A Flintoff
+            bowler: B Lee
+            extras:
+              wides: 1
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_4_6:
+            batsman: A Flintoff
+            bowler: B Lee
+            non_striker: ME Trescothick
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_4_7:
+            batsman: ME Trescothick
+            bowler: B Lee
+            extras:
+              legbyes: 1
+            non_striker: A Flintoff
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_4_8:
+            batsman: A Flintoff
+            bowler: B Lee
+            non_striker: ME Trescothick
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - delivery_5_1:
+            batsman: A Flintoff
+            bowler: MS Kasprowicz
+            non_striker: ME Trescothick
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_5_2:
+            batsman: ME Trescothick
+            bowler: MS Kasprowicz
+            non_striker: A Flintoff
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_5_3:
+            batsman: ME Trescothick
+            bowler: MS Kasprowicz
+            non_striker: A Flintoff
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_5_4:
+            batsman: ME Trescothick
+            bowler: MS Kasprowicz
+            non_striker: A Flintoff
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_5_5:
+            batsman: A Flintoff
+            bowler: MS Kasprowicz
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - A Symonds
+              kind: caught
+              player_out: A Flintoff
+        - delivery_5_6:
+            batsman: KP Pietersen
+            bowler: MS Kasprowicz
+            non_striker: ME Trescothick
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_6_1:
+            batsman: KP Pietersen
+            bowler: JN Gillespie
+            non_striker: ME Trescothick
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_6_2:
+            batsman: ME Trescothick
+            bowler: JN Gillespie
+            non_striker: KP Pietersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_6_3:
+            batsman: ME Trescothick
+            bowler: JN Gillespie
+            non_striker: KP Pietersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_6_4:
+            batsman: KP Pietersen
+            bowler: JN Gillespie
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_6_5:
+            batsman: KP Pietersen
+            bowler: JN Gillespie
+            non_striker: ME Trescothick
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_6_6:
+            batsman: KP Pietersen
+            bowler: JN Gillespie
+            non_striker: ME Trescothick
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_7_1:
+            batsman: ME Trescothick
+            bowler: MS Kasprowicz
+            non_striker: KP Pietersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_7_2:
+            batsman: KP Pietersen
+            bowler: MS Kasprowicz
+            non_striker: ME Trescothick
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_7_3:
+            batsman: KP Pietersen
+            bowler: MS Kasprowicz
+            non_striker: ME Trescothick
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_7_4:
+            batsman: KP Pietersen
+            bowler: MS Kasprowicz
+            non_striker: ME Trescothick
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_7_5:
+            batsman: ME Trescothick
+            bowler: MS Kasprowicz
+            non_striker: KP Pietersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_7_6:
+            batsman: KP Pietersen
+            bowler: MS Kasprowicz
+            non_striker: ME Trescothick
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_8_1:
+            batsman: KP Pietersen
+            bowler: JN Gillespie
+            non_striker: ME Trescothick
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_8_2:
+            batsman: ME Trescothick
+            bowler: JN Gillespie
+            non_striker: KP Pietersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_8_3:
+            batsman: KP Pietersen
+            bowler: JN Gillespie
+            non_striker: ME Trescothick
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_8_4:
+            batsman: ME Trescothick
+            bowler: JN Gillespie
+            non_striker: KP Pietersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_8_5:
+            batsman: ME Trescothick
+            bowler: JN Gillespie
+            non_striker: KP Pietersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_8_6:
+            batsman: KP Pietersen
+            bowler: JN Gillespie
+            non_striker: ME Trescothick
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_9_1:
+            batsman: ME Trescothick
+            bowler: MS Kasprowicz
+            non_striker: KP Pietersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_9_2:
+            batsman: KP Pietersen
+            bowler: MS Kasprowicz
+            non_striker: ME Trescothick
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_9_3:
+            batsman: KP Pietersen
+            bowler: MS Kasprowicz
+            non_striker: ME Trescothick
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_9_4:
+            batsman: KP Pietersen
+            bowler: MS Kasprowicz
+            non_striker: ME Trescothick
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_9_5:
+            batsman: ME Trescothick
+            bowler: MS Kasprowicz
+            non_striker: KP Pietersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_9_6:
+            batsman: KP Pietersen
+            bowler: MS Kasprowicz
+            non_striker: ME Trescothick
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_10_1:
+            batsman: ME Trescothick
+            bowler: MJ Clarke
+            non_striker: KP Pietersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_10_2:
+            batsman: KP Pietersen
+            bowler: MJ Clarke
+            non_striker: ME Trescothick
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_10_3:
+            batsman: ME Trescothick
+            bowler: MJ Clarke
+            non_striker: KP Pietersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_10_4:
+            batsman: ME Trescothick
+            bowler: MJ Clarke
+            non_striker: KP Pietersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_10_5:
+            batsman: KP Pietersen
+            bowler: MJ Clarke
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - ML Hayden
+              kind: caught
+              player_out: KP Pietersen
+        - delivery_10_6:
+            batsman: ME Trescothick
+            bowler: MJ Clarke
+            non_striker: MP Vaughan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_11_1:
+            batsman: ME Trescothick
+            bowler: A Symonds
+            non_striker: MP Vaughan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_11_2:
+            batsman: MP Vaughan
+            bowler: A Symonds
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RT Ponting
+              kind: caught
+              player_out: MP Vaughan
+        - delivery_11_3:
+            batsman: PD Collingwood
+            bowler: A Symonds
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_11_4:
+            batsman: PD Collingwood
+            bowler: A Symonds
+            non_striker: ME Trescothick
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_11_5:
+            batsman: ME Trescothick
+            bowler: A Symonds
+            non_striker: PD Collingwood
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_11_6:
+            batsman: PD Collingwood
+            bowler: A Symonds
+            non_striker: ME Trescothick
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_12_1:
+            batsman: PD Collingwood
+            bowler: MJ Clarke
+            non_striker: ME Trescothick
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_12_2:
+            batsman: ME Trescothick
+            bowler: MJ Clarke
+            non_striker: PD Collingwood
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_12_3:
+            batsman: ME Trescothick
+            bowler: MJ Clarke
+            non_striker: PD Collingwood
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_12_4:
+            batsman: PD Collingwood
+            bowler: MJ Clarke
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_12_5:
+            batsman: PD Collingwood
+            bowler: MJ Clarke
+            non_striker: ME Trescothick
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_12_6:
+            batsman: ME Trescothick
+            bowler: MJ Clarke
+            non_striker: PD Collingwood
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_13_1:
+            batsman: ME Trescothick
+            bowler: A Symonds
+            non_striker: PD Collingwood
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MEK Hussey
+              kind: caught
+              player_out: ME Trescothick
+        - delivery_13_2:
+            batsman: PD Collingwood
+            bowler: A Symonds
+            non_striker: AJ Strauss
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_13_3:
+            batsman: PD Collingwood
+            bowler: A Symonds
+            non_striker: AJ Strauss
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_13_4:
+            batsman: AJ Strauss
+            bowler: A Symonds
+            non_striker: PD Collingwood
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_13_5:
+            batsman: AJ Strauss
+            bowler: A Symonds
+            non_striker: PD Collingwood
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_13_6:
+            batsman: PD Collingwood
+            bowler: A Symonds
+            non_striker: AJ Strauss
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_14_1:
+            batsman: AJ Strauss
+            bowler: MJ Clarke
+            non_striker: PD Collingwood
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - delivery_14_2:
+            batsman: PD Collingwood
+            bowler: MJ Clarke
+            non_striker: AJ Strauss
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_14_3:
+            batsman: PD Collingwood
+            bowler: MJ Clarke
+            non_striker: AJ Strauss
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_14_4:
+            batsman: AJ Strauss
+            bowler: MJ Clarke
+            non_striker: PD Collingwood
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_14_5:
+            batsman: AJ Strauss
+            bowler: MJ Clarke
+            non_striker: PD Collingwood
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_14_6:
+            batsman: PD Collingwood
+            bowler: MJ Clarke
+            non_striker: AJ Strauss
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_15_1:
+            batsman: AJ Strauss
+            bowler: A Symonds
+            non_striker: PD Collingwood
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_15_2:
+            batsman: PD Collingwood
+            bowler: A Symonds
+            non_striker: AJ Strauss
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_15_3:
+            batsman: AJ Strauss
+            bowler: A Symonds
+            non_striker: PD Collingwood
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_15_4:
+            batsman: AJ Strauss
+            bowler: A Symonds
+            non_striker: PD Collingwood
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_15_5:
+            batsman: PD Collingwood
+            bowler: A Symonds
+            non_striker: AJ Strauss
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_15_6:
+            batsman: PD Collingwood
+            bowler: A Symonds
+            non_striker: AJ Strauss
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_16_1:
+            batsman: PD Collingwood
+            bowler: JN Gillespie
+            non_striker: AJ Strauss
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_16_2:
+            batsman: AJ Strauss
+            bowler: JN Gillespie
+            non_striker: PD Collingwood
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_16_3:
+            batsman: AJ Strauss
+            bowler: JN Gillespie
+            non_striker: PD Collingwood
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_16_4:
+            batsman: AJ Strauss
+            bowler: JN Gillespie
+            extras:
+              wides: 1
+            non_striker: PD Collingwood
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_16_5:
+            batsman: AJ Strauss
+            bowler: JN Gillespie
+            non_striker: PD Collingwood
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_16_6:
+            batsman: PD Collingwood
+            bowler: JN Gillespie
+            non_striker: AJ Strauss
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_16_7:
+            batsman: PD Collingwood
+            bowler: JN Gillespie
+            non_striker: AJ Strauss
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - delivery_17_1:
+            batsman: AJ Strauss
+            bowler: GD McGrath
+            non_striker: PD Collingwood
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_17_2:
+            batsman: AJ Strauss
+            bowler: GD McGrath
+            non_striker: PD Collingwood
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_17_3:
+            batsman: PD Collingwood
+            bowler: GD McGrath
+            non_striker: AJ Strauss
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_17_4:
+            batsman: AJ Strauss
+            bowler: GD McGrath
+            non_striker: PD Collingwood
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_17_5:
+            batsman: AJ Strauss
+            bowler: GD McGrath
+            non_striker: PD Collingwood
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_17_6:
+            batsman: PD Collingwood
+            bowler: GD McGrath
+            non_striker: AJ Strauss
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_18_1:
+            batsman: PD Collingwood
+            bowler: JN Gillespie
+            non_striker: AJ Strauss
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_18_2:
+            batsman: AJ Strauss
+            bowler: JN Gillespie
+            non_striker: PD Collingwood
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: AJ Strauss
+        - delivery_18_3:
+            batsman: VS Solanki
+            bowler: JN Gillespie
+            non_striker: PD Collingwood
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_18_4:
+            batsman: PD Collingwood
+            bowler: JN Gillespie
+            non_striker: VS Solanki
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_18_5:
+            batsman: PD Collingwood
+            bowler: JN Gillespie
+            non_striker: VS Solanki
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_18_6:
+            batsman: PD Collingwood
+            bowler: JN Gillespie
+            non_striker: VS Solanki
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_19_1:
+            batsman: VS Solanki
+            bowler: GD McGrath
+            non_striker: PD Collingwood
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_19_2:
+            batsman: VS Solanki
+            bowler: GD McGrath
+            non_striker: PD Collingwood
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_19_3:
+            batsman: VS Solanki
+            bowler: GD McGrath
+            non_striker: PD Collingwood
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_19_4:
+            batsman: VS Solanki
+            bowler: GD McGrath
+            non_striker: PD Collingwood
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MEK Hussey
+              kind: caught
+              player_out: VS Solanki
+        - delivery_19_5:
+            batsman: PD Collingwood
+            bowler: GD McGrath
+            non_striker: J Lewis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_19_6:
+            batsman: PD Collingwood
+            bowler: GD McGrath
+            non_striker: J Lewis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RT Ponting
+              kind: caught
+              player_out: PD Collingwood
+  - 2nd innings:
+      team: Australia
+      deliveries:
+        - delivery_0_1:
+            batsman: AC Gilchrist
+            bowler: D Gough
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_0_2:
+            batsman: AC Gilchrist
+            bowler: D Gough
+            non_striker: ML Hayden
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_0_3:
+            batsman: AC Gilchrist
+            bowler: D Gough
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_0_4:
+            batsman: AC Gilchrist
+            bowler: D Gough
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_0_5:
+            batsman: AC Gilchrist
+            bowler: D Gough
+            non_striker: ML Hayden
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_0_6:
+            batsman: AC Gilchrist
+            bowler: D Gough
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_1_1:
+            batsman: ML Hayden
+            bowler: J Lewis
+            non_striker: AC Gilchrist
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_1_2:
+            batsman: ML Hayden
+            bowler: J Lewis
+            non_striker: AC Gilchrist
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_1_3:
+            batsman: AC Gilchrist
+            bowler: J Lewis
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_1_4:
+            batsman: AC Gilchrist
+            bowler: J Lewis
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_1_5:
+            batsman: AC Gilchrist
+            bowler: J Lewis
+            non_striker: ML Hayden
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_1_6:
+            batsman: AC Gilchrist
+            bowler: J Lewis
+            non_striker: ML Hayden
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_2_1:
+            batsman: AC Gilchrist
+            bowler: D Gough
+            extras:
+              legbyes: 1
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_2_2:
+            batsman: ML Hayden
+            bowler: D Gough
+            non_striker: AC Gilchrist
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_2_3:
+            batsman: AC Gilchrist
+            bowler: D Gough
+            extras:
+              noballs: 1
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_2_4:
+            batsman: AC Gilchrist
+            bowler: D Gough
+            non_striker: ML Hayden
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_2_5:
+            batsman: AC Gilchrist
+            bowler: D Gough
+            non_striker: ML Hayden
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KP Pietersen
+              kind: caught
+              player_out: AC Gilchrist
+        - delivery_2_6:
+            batsman: ML Hayden
+            bowler: D Gough
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KP Pietersen
+              kind: caught
+              player_out: ML Hayden
+        - delivery_2_7:
+            batsman: A Symonds
+            bowler: D Gough
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_3_1:
+            batsman: MJ Clarke
+            bowler: J Lewis
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - GO Jones
+              kind: caught
+              player_out: MJ Clarke
+        - delivery_3_2:
+            batsman: MEK Hussey
+            bowler: J Lewis
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_3_3:
+            batsman: MEK Hussey
+            bowler: J Lewis
+            non_striker: A Symonds
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_3_4:
+            batsman: A Symonds
+            bowler: J Lewis
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KP Pietersen
+              kind: caught
+              player_out: A Symonds
+        - delivery_3_5:
+            batsman: RT Ponting
+            bowler: J Lewis
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_3_6:
+            batsman: RT Ponting
+            bowler: J Lewis
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_4_1:
+            batsman: MEK Hussey
+            bowler: D Gough
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_4_2:
+            batsman: MEK Hussey
+            bowler: D Gough
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_4_3:
+            batsman: MEK Hussey
+            bowler: D Gough
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_4_4:
+            batsman: MEK Hussey
+            bowler: D Gough
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - A Flintoff
+              kind: caught
+              player_out: MEK Hussey
+        - delivery_4_5:
+            batsman: DR Martyn
+            bowler: D Gough
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_4_6:
+            batsman: DR Martyn
+            bowler: D Gough
+            non_striker: RT Ponting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_5_1:
+            batsman: RT Ponting
+            bowler: J Lewis
+            non_striker: DR Martyn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - VS Solanki
+              kind: caught
+              player_out: RT Ponting
+        - delivery_5_2:
+            batsman: B Lee
+            bowler: J Lewis
+            non_striker: DR Martyn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_5_3:
+            batsman: B Lee
+            bowler: J Lewis
+            non_striker: DR Martyn
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - delivery_5_4:
+            batsman: DR Martyn
+            bowler: J Lewis
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_5_5:
+            batsman: DR Martyn
+            bowler: J Lewis
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - ME Trescothick
+              kind: caught
+              player_out: DR Martyn
+        - delivery_5_6:
+            batsman: JN Gillespie
+            bowler: J Lewis
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_6_1:
+            batsman: B Lee
+            bowler: SJ Harmison
+            non_striker: JN Gillespie
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_6_2:
+            batsman: B Lee
+            bowler: SJ Harmison
+            non_striker: JN Gillespie
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_6_3:
+            batsman: JN Gillespie
+            bowler: SJ Harmison
+            extras:
+              noballs: 1
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_6_4:
+            batsman: JN Gillespie
+            bowler: SJ Harmison
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_6_5:
+            batsman: B Lee
+            bowler: SJ Harmison
+            non_striker: JN Gillespie
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_6_6:
+            batsman: B Lee
+            bowler: SJ Harmison
+            non_striker: JN Gillespie
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_6_7:
+            batsman: JN Gillespie
+            bowler: SJ Harmison
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_7_1:
+            batsman: B Lee
+            bowler: J Lewis
+            non_striker: JN Gillespie
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - delivery_7_2:
+            batsman: B Lee
+            bowler: J Lewis
+            non_striker: JN Gillespie
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_7_3:
+            batsman: JN Gillespie
+            bowler: J Lewis
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_7_4:
+            batsman: JN Gillespie
+            bowler: J Lewis
+            non_striker: B Lee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_7_5:
+            batsman: JN Gillespie
+            bowler: J Lewis
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_7_6:
+            batsman: JN Gillespie
+            bowler: J Lewis
+            non_striker: B Lee
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - delivery_8_1:
+            batsman: JN Gillespie
+            bowler: SJ Harmison
+            non_striker: B Lee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_8_2:
+            batsman: JN Gillespie
+            bowler: SJ Harmison
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_8_3:
+            batsman: JN Gillespie
+            bowler: SJ Harmison
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_8_4:
+            batsman: JN Gillespie
+            bowler: SJ Harmison
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_8_5:
+            batsman: B Lee
+            bowler: SJ Harmison
+            non_striker: JN Gillespie
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_8_6:
+            batsman: B Lee
+            bowler: SJ Harmison
+            non_striker: JN Gillespie
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_9_1:
+            batsman: JN Gillespie
+            bowler: A Flintoff
+            non_striker: B Lee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_9_2:
+            batsman: JN Gillespie
+            bowler: A Flintoff
+            non_striker: B Lee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - delivery_9_3:
+            batsman: JN Gillespie
+            bowler: A Flintoff
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_9_4:
+            batsman: B Lee
+            bowler: A Flintoff
+            non_striker: JN Gillespie
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_9_5:
+            batsman: JN Gillespie
+            bowler: A Flintoff
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_9_6:
+            batsman: B Lee
+            bowler: A Flintoff
+            non_striker: JN Gillespie
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_10_1:
+            batsman: JN Gillespie
+            bowler: PD Collingwood
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_10_2:
+            batsman: B Lee
+            bowler: PD Collingwood
+            extras:
+              byes: 1
+            non_striker: JN Gillespie
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_10_3:
+            batsman: JN Gillespie
+            bowler: PD Collingwood
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - ME Trescothick
+              kind: caught
+              player_out: JN Gillespie
+        - delivery_10_4:
+            batsman: B Lee
+            bowler: PD Collingwood
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_10_5:
+            batsman: MS Kasprowicz
+            bowler: PD Collingwood
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_10_6:
+            batsman: MS Kasprowicz
+            bowler: PD Collingwood
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_11_1:
+            batsman: B Lee
+            bowler: A Flintoff
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_11_2:
+            batsman: B Lee
+            bowler: A Flintoff
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_11_3:
+            batsman: B Lee
+            bowler: A Flintoff
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_11_4:
+            batsman: B Lee
+            bowler: A Flintoff
+            extras:
+              legbyes: 1
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_11_5:
+            batsman: MS Kasprowicz
+            bowler: A Flintoff
+            extras:
+              wides: 1
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - delivery_11_6:
+            batsman: MS Kasprowicz
+            bowler: A Flintoff
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_11_7:
+            batsman: B Lee
+            bowler: A Flintoff
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_12_1:
+            batsman: B Lee
+            bowler: PD Collingwood
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - SJ Harmison
+              kind: caught
+              player_out: B Lee
+        - delivery_12_2:
+            batsman: MS Kasprowicz
+            bowler: PD Collingwood
+            non_striker: GD McGrath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_12_3:
+            batsman: GD McGrath
+            bowler: PD Collingwood
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_12_4:
+            batsman: GD McGrath
+            bowler: PD Collingwood
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - delivery_12_5:
+            batsman: MS Kasprowicz
+            bowler: PD Collingwood
+            non_striker: GD McGrath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_12_6:
+            batsman: GD McGrath
+            bowler: PD Collingwood
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_13_1:
+            batsman: GD McGrath
+            bowler: A Flintoff
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_13_2:
+            batsman: GD McGrath
+            bowler: A Flintoff
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_13_3:
+            batsman: GD McGrath
+            bowler: A Flintoff
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_13_4:
+            batsman: GD McGrath
+            bowler: A Flintoff
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_13_5:
+            batsman: GD McGrath
+            bowler: A Flintoff
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_13_6:
+            batsman: GD McGrath
+            bowler: A Flintoff
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - delivery_14_1:
+            batsman: GD McGrath
+            bowler: SJ Harmison
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_14_2:
+            batsman: GD McGrath
+            bowler: SJ Harmison
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - delivery_14_3:
+            batsman: GD McGrath
+            bowler: SJ Harmison
+            non_striker: MS Kasprowicz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: GD McGrath

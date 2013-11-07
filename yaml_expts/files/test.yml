@@ -1,0 +1,54 @@
+innings:
+  - 1st innings:
+      team: England
+      deliveries:
+        - 0:
+            batsman: ME Trescothick
+            bowler: B Lee
+            non_striker: GO Jones
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: ME Trescothick
+            bowler: B Lee
+            non_striker: GO Jones
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: GO Jones
+            bowler: B Lee
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: GO Jones
+            bowler: B Lee
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: GO Jones
+            bowler: B Lee
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: GO Jones
+            bowler: B Lee
+            extras:
+              noballs: 1
+            non_striker: ME Trescothick
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
